@@ -1,1 +1,1 @@
-# gojan-labs
+# Gojan Labs
