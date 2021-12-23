@@ -7,3 +7,8 @@ footer:
    - label: "GitHub"
      icon: "fab fa-fw fa-github"
      url: "https://lchayim.github.io/gojan-labs"
+
+author:
+  name: "L'Chayim Ansan Gojan"
+  bio: >-
+   My name is Lchayim
