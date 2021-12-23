@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+# theme: jekyll-theme-minimal
 title: L'Chayim Study Caffe
 description: This is the new branch of L'Chayim study cafe in Gojan, Ansan city. 
