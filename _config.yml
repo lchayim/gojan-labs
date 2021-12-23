@@ -12,3 +12,13 @@ author:
   name: "L'Chayim Ansan Gojan"
   bio: >-
    My name is Lchayim
+
+main:
+  - title: "About me"
+    url: /about/
+  - title: "Posts"
+    url: /years/
+  - title: "Pages"
+    url: /pages/
+  - title: "Tags"
+    url: /tags/
