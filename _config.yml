@@ -1,5 +1,5 @@
 # remote_theme: mmistakes/minimal-mistakes
-markdown: kramdown
+
 theme: jekyll-theme-minimal
 title: "L'Chayim Study Caffe"
 description: "New branch of L'Chayim study cafe in Gojan, Ansan city"
